@@ -11,7 +11,7 @@
 - [x] 4. Doubles and Booleans
 - [x] 5. String interpolation
 - [x] 6. Constants
-- [ ] 7. Type annotations
+- [x] 7. Type annotations
 - [ ] 8. Simple types: Summary
 
 ## Day 2 - arrays, dictionaries, sets, and enums
