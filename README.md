@@ -12,7 +12,7 @@
 - [x] 5. String interpolation
 - [x] 6. Constants
 - [x] 7. Type annotations
-- [ ] 8. Simple types: Summary
+- [x] 8. Simple types: Summary
 
 ## Day 2 - arrays, dictionaries, sets, and enums
 - [ ] 1. Arrays
