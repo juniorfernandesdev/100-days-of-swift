@@ -2,4 +2,4 @@
 100-day challenge with swift
 
 - [x] 1. Variables
-- [] 2. Strings and integers
+- [ ] 2. Strings and integers
