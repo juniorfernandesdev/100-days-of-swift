@@ -8,7 +8,7 @@
 - [x] 1. Variables
 - [x] 2. Strings and integers
 - [x] 3. Multi-lines strings
-- [ ] 4. Doubles and Booleans
+- [x] 4. Doubles and Booleans
 - [ ] 5. String interpolation
 - [ ] 6. Constants
 - [ ] 7. Type annotations
