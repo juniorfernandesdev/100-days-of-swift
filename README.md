@@ -1,3 +1,5 @@
+![Captura de Tela 2021-01-19 às 09 03 28](https://user-images.githubusercontent.com/42782419/105032215-45751680-5a35-11eb-98db-c69c2db943ae.png)
+
 # 100-days-of-swift
 100-day challenge with swift
 [Challenge](https://www.hackingwithswift.com/100)
