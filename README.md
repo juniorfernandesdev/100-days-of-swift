@@ -6,7 +6,7 @@
 
 ## Day 1 - variables, simple data types, and string interpolation
 - [x] 1. Variables
-- [ ] 2. Strings and integers
+- [x] 2. Strings and integers
 - [ ] 3. Multi-lines strings
 - [ ] 4. Doubles and Booleans
 - [ ] 5. String interpolation
