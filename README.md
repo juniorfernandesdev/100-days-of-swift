@@ -9,7 +9,7 @@
 - [x] 2. Strings and integers
 - [x] 3. Multi-lines strings
 - [x] 4. Doubles and Booleans
-- [ ] 5. String interpolation
+- [x] 5. String interpolation
 - [ ] 6. Constants
 - [ ] 7. Type annotations
 - [ ] 8. Simple types: Summary
