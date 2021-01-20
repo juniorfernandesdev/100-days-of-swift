@@ -15,7 +15,7 @@
 - [x] 8. Simple types: Summary
 
 ## Day 2 - arrays, dictionaries, sets, and enums
-- [ ] 1. Arrays
+- [x] 1. Arrays
 - [ ] 2. Sets
 - [ ] 3. Tuples
 - [ ] 4. Arrays vs sets vs tuples
