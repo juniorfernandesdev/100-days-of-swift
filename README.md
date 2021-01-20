@@ -16,7 +16,7 @@
 
 ## Day 2 - arrays, dictionaries, sets, and enums
 - [x] 1. Arrays
-- [ ] 2. Sets
+- [x] 2. Sets
 - [ ] 3. Tuples
 - [ ] 4. Arrays vs sets vs tuples
 - [ ] 5. Dictionaries
