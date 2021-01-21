@@ -24,7 +24,7 @@
 - [x] 7. Creating empty collections
 - [x] 8. Enumerations
 - [x] 9. Enum associated values
-- [ ] 10. Enum raw values
+- [x] 10. Enum raw values
 - [ ] 11. Complex types: Summary
 
 ## Day 3 - operators and conditions
