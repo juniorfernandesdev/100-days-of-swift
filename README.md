@@ -30,7 +30,7 @@
 ## Day 3 - operators and conditions
 - [x] 1. Arithmetic Operators
 - [x] 2. Operator overloading
-- [ ] 3. Compound assignment operators
+- [x] 3. Compound assignment operators
 - [ ] 4. Comparison operators
 - [ ] 5. Conditions
 - [ ] 6. Combining conditions
