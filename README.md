@@ -22,7 +22,7 @@
 - [x] 5. Dictionaries
 - [x] 6. Dictionary default values
 - [x] 7. Creating empty collections
-- [ ] 8. Enumerations
+- [x] 8. Enumerations
 - [ ] 9. Enum associated values
 - [ ] 10. Enum raw values
 - [ ] 11. Complex types: Summary
