@@ -20,7 +20,7 @@
 - [x] 3. Tuples
 - [x] 4. Arrays vs sets vs tuples
 - [x] 5. Dictionaries
-- [ ] 6. Dictionary default values
+- [x] 6. Dictionary default values
 - [ ] 7. Creating empty collections
 - [ ] 8. Enumerations
 - [ ] 9. Enum associated values
