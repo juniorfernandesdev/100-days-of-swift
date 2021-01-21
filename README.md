@@ -28,7 +28,7 @@
 - [x] 11. Complex types: Summary
 
 ## Day 3 - operators and conditions
-- [ ] 1. Arithmetic Operators
+- [x] 1. Arithmetic Operators
 - [ ] 2. Operator overloading
 - [ ] 3. Compound assignment operators
 - [ ] 4. Comparison operators
