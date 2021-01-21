@@ -36,6 +36,6 @@
 - [x] 6. Combining conditions
 - [x] 7. The ternary operator
 - [x] 8. Switch statements
-- [ ] 9. Range operators
+- [x] 9. Range operators
 - [ ] 10. Operators and conditions summary
 
