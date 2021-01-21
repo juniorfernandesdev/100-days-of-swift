@@ -31,7 +31,7 @@
 - [x] 1. Arithmetic Operators
 - [x] 2. Operator overloading
 - [x] 3. Compound assignment operators
-- [ ] 4. Comparison operators
+- [x] 4. Comparison operators
 - [ ] 5. Conditions
 - [ ] 6. Combining conditions
 - [ ] 7. The ternary operator
