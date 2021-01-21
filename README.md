@@ -18,8 +18,8 @@
 - [x] 1. Arrays
 - [x] 2. Sets
 - [x] 3. Tuples
-- [ ] 4. Arrays vs sets vs tuples
-- [ ] 5. Dictionaries
+- [x] 4. Arrays vs sets vs tuples
+- [x] 5. Dictionaries
 - [ ] 6. Dictionary default values
 - [ ] 7. Creating empty collections
 - [ ] 8. Enumerations
