@@ -37,5 +37,5 @@
 - [x] 7. The ternary operator
 - [x] 8. Switch statements
 - [x] 9. Range operators
-- [ ] 10. Operators and conditions summary
+- [x] 10. Operators and conditions summary
 
