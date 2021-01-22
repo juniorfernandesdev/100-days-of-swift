@@ -38,4 +38,13 @@
 - [x] 8. Switch statements
 - [x] 9. Range operators
 - [ ] 10. Operators and conditions summary
+## Day 4 - loops, loops, and more loops
+- [x] 1. For loops
+- [ ] 2. While loops
+- [ ] 3. Repeat loops
+- [ ] 4. Exiting loops
+- [ ] 5. Exiting multiple loops
+- [ ] 6. Skipping items
+- [ ] 7. Infinite loops
+- [ ] 8. Looping summary
 
