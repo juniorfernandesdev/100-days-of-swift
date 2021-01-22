@@ -46,5 +46,5 @@
 - [x] 5. Exiting multiple loops
 - [x] 6. Skipping items
 - [x] 7. Infinite loops
-- [ ] 8. Looping summary
+- [x] 8. Looping summary
 
