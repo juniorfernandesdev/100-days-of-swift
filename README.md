@@ -49,7 +49,7 @@
 - [x] 8. Looping summary
 
 ## Day 5 - 
-- [ ] 1. Writing functions
+- [x] 1. Writing functions
 - [ ] 2. Accepting parameters
 - [ ] 3. Returning values
 - [ ] 4. Parameter labels
