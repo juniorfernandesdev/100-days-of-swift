@@ -48,15 +48,15 @@
 - [x] 7. Infinite loops
 - [x] 8. Looping summary
 
-## Day 5 - 
+## Day 5 - functions, parameters, and errors
 - [x] 1. Writing functions
-- [ ] 2. Accepting parameters
-- [ ] 3. Returning values
-- [ ] 4. Parameter labels
-- [ ] 5. Omitting parameter labels
-- [ ] 6. Default parameters
-- [ ] 7. Variadic functions
-- [ ] 8. Writing throwing functions
-- [ ] 9. Running throwing functions
-- [ ] 10. inout parameters
-- [ ] 11. Functions summary
+- [x] 2. Accepting parameters
+- [x] 3. Returning values
+- [x] 4. Parameter labels
+- [x] 5. Omitting parameter labels
+- [x] 6. Default parameters
+- [x] 7. Variadic functions
+- [x] 8. Writing throwing functions
+- [x] 9. Running throwing functions
+- [x] 10. inout parameters
+- [x] 11. Functions summary
