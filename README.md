@@ -65,5 +65,5 @@
 - [x] 1. Creating basic closures
 - [x] 2. Accepting parameters in a closure
 - [x] 3. Returning values from a closure
-- [ ] 4. Closures as parameters
-- [ ] 5. Trailing closure syntax
+- [x] 4. Closures as parameters
+- [x] 5. Trailing closure syntax
