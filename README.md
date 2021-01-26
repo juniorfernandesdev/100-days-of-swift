@@ -64,6 +64,6 @@
 ## Day 6 - Closures, part one
 - [x] 1. Creating basic closures
 - [x] 2. Accepting parameters in a closure
-- [ ] 3. Returning values from a closure
+- [x] 3. Returning values from a closure
 - [ ] 4. Closures as parameters
 - [ ] 5. Trailing closure syntax
