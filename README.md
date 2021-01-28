@@ -74,6 +74,6 @@
 - [x] 3. Shorthand parameter names
 - [x] 4. Closures with multiple parameters
 - [x] 5. Returning closures from functions
-- [ ] 6. Capturing values
+- [x] 6. Capturing values
 - [ ] 7. Closures summary
 
