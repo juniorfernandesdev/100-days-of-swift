@@ -67,3 +67,7 @@
 - [x] 3. Returning values from a closure
 - [x] 4. Closures as parameters
 - [x] 5. Trailing closure syntax
+
+## Day 7 - Closures, part two
+- [x] 1. Using closures as parameters when they accept parameters
+
