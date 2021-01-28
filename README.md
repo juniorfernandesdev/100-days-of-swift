@@ -75,5 +75,5 @@
 - [x] 4. Closures with multiple parameters
 - [x] 5. Returning closures from functions
 - [x] 6. Capturing values
-- [ ] 7. Closures summary
+- [x] 7. Closures summary
 
