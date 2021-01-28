@@ -72,4 +72,8 @@
 - [x] 1. Using closures as parameters when they accept parameters
 - [x] 2. Using closures as parameters when they return values
 - [x] 3. Shorthand parameter names
+- [x] 4. Closures with multiple parameters
+- [ ] 5. Returning closures from functions
+- [ ] 6. Capturing values
+- [ ] 7. Closures summary
 
