@@ -71,5 +71,5 @@
 ## Day 7 - Closures, part two
 - [x] 1. Using closures as parameters when they accept parameters
 - [x] 2. Using closures as parameters when they return values
-- [ ] 3. Shorthand parameter names
+- [x] 3. Shorthand parameter names
 
