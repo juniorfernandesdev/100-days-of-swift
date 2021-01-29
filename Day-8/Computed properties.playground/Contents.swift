@@ -1,4 +1,5 @@
 import UIKit
+//You can also use willSet to take action before a property changes, but that is rarely used.
 
 struct Sport {
     var name: String
