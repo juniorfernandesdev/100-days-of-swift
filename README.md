@@ -83,6 +83,6 @@
 - [x] 3. Property observers
 - [x] 4. Methods
 - [x] 5. Mutating methods
-- [ ] 6. Properties and methods of strings
+- [x] 6. Properties and methods of strings
 - [ ] 7. Properties and methods of arrays
 
