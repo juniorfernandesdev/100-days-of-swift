@@ -84,5 +84,5 @@
 - [x] 4. Methods
 - [x] 5. Mutating methods
 - [x] 6. Properties and methods of strings
-- [ ] 7. Properties and methods of arrays
+- [x] 7. Properties and methods of arrays
 
