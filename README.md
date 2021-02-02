@@ -92,5 +92,5 @@
 - [x] 3. Lazy properties
 - [x] 4. Static properties and methods
 - [x] 5. Access control
-- [ ] 6. Structs summary
+- [x] 6. Structs summary
 
