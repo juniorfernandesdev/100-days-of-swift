@@ -91,6 +91,6 @@
 - [x] 2. Referring to the current instance
 - [x] 3. Lazy properties
 - [x] 4. Static properties and methods
-- [ ] 5. Access control
+- [x] 5. Access control
 - [ ] 6. Structs summary
 
