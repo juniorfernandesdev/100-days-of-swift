@@ -86,3 +86,11 @@
 - [x] 6. Properties and methods of strings
 - [x] 7. Properties and methods of arrays
 
+## Day 9 - access control, static properties, and laziness
+- [x] 1. Initializers
+- [ ] 2. Referring to the current instance
+- [ ] 3. Lazy properties
+- [ ] 4. Static properties and methods
+- [ ] 5. Access control
+- [ ] 6. Structs summary
+
